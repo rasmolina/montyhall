@@ -12,7 +12,7 @@
 
 :triangular_ruler: IDE: [Visual Studio Code](https://code.visualstudio.com/)
 
-:calendar: Developed at 2021 second half
+:calendar: Developed at 2021 first half
 
 ## Content
 This website was developed during the web programming I course to practice the DOM/div manipulation, simulating the "Let's make a deal" TV show. 
